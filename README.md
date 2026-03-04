@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @harshalsp22
-- 👀 I’m interested in technology and cloudsecurity
-- 🌱 I’m currently learning cse
-- 📫 How to reach me harshal s poojary in linkdein
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: also known as buldo
+
 
 # 💫 About Me:
 👋 Hi, I’m Harshal Poojary<br>👀 I’m interested in Technology, Data Science, and Cloud Security<br>🌱 I’m currently learning Computer Science<br>📫 How to reach me: Harshal S Poojary on LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Also known as “Buldo” 😎
