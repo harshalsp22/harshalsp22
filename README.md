@@ -1,96 +1,141 @@
-# 💫 About Me
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--   Harshal S. Poojary · @harshalsp22 · GitHub Profile README  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+```
+ ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ ██╗
+ ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗██║
+ ███████║███████║██████╔╝███████╗███████║███████║██║
+ ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██╔══██║██║
+ ██║  ██║██║  ██║██║  ██║███████║██║  ██║██║  ██║███████╗
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+                                           @harshalsp22 · "Buldo"
+```
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blueviolet?style=flat-tech" alt="Pronouns">
-  <img src="https://img.shields.io/badge/Fun%20Fact-Known%20as%20%22Buldo%22%20%F0%9F%98%8E-orange?style=flat-tech" alt="Fun Fact">
+  <img src="https://img.shields.io/badge/pronouns-he%2Fhim-blueviolet?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/alias-%22Buldo%22-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-CS_%26_Data_Science-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/open_to-collaborations-238636?style=flat-square" />
 </p>
 
-👋 **Hi, I’m Harshal Poojary!** I am an aspiring Computer Science student with a deep passion for building scalable applications, extracting insights from data, and securing cloud infrastructure. 
+---
 
-* 🌱 **Current Focus:** Deepening my knowledge in Computer Science & Advanced Data Science.
-* 👀 **Interests:** Technology, Data Science, Machine Learning, and Cloud Security.
-* 🚀 **Core Goal:** Bridging the gap between software development and intelligent data systems.
+## `$ cat about.json`
+
+```json
+{
+  "name": "Harshal S. Poojary",
+  "pronouns": "he/him",
+  "alias": "Buldo",
+  "location": "Udupi, Karnataka, IN",
+  "focus": "Advanced CS & Data Science",
+  "interests": ["Machine Learning", "Data Science", "Cloud Security", "Scalable Systems"],
+  "goal": "Bridge software development with intelligent data systems",
+  "open_to": ["projects", "research", "collaborations"]
+}
+```
 
 ---
 
-## 🌐 Connect With Me
+## `$ ls -la tech-stack/`
 
-To collaborate on projects, discuss technology, or just say hi, feel free to reach out!
+### 🔤 Languages & Runtimes
+<p>
+  <img src="https://img.shields.io/badge/Python-1e3a5f?style=for-the-badge&logo=python&logoColor=64bef5" />
+  <img src="https://img.shields.io/badge/Go-003333?style=for-the-badge&logo=go&logoColor=29d4d1" />
+  <img src="https://img.shields.io/badge/Java-3a1500?style=for-the-badge&logo=openjdk&logoColor=f0883e" />
+  <img src="https://img.shields.io/badge/C++-0d2137?style=for-the-badge&logo=c%2B%2B&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/C-0d2137?style=for-the-badge&logo=c&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Dart-000b3a?style=for-the-badge&logo=dart&logoColor=8eb3ff" />
+  <img src="https://img.shields.io/badge/JavaScript-2a2300?style=for-the-badge&logo=javascript&logoColor=f0d264" />
+  <img src="https://img.shields.io/badge/HTML5-3a1500?style=for-the-badge&logo=html5&logoColor=f0883e" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-s-poojary) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojaryharshal28@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harshaal22)
+### 🧠 AI / ML / Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-3a1500?style=for-the-badge&logo=TensorFlow&logoColor=f0883e" />
+  <img src="https://img.shields.io/badge/PyTorch-3a0000?style=for-the-badge&logo=PyTorch&logoColor=ff9e9e" />
+  <img src="https://img.shields.io/badge/Keras-1a0000?style=for-the-badge&logo=Keras&logoColor=ff6b6b" />
+  <img src="https://img.shields.io/badge/scikit--learn-1a1000?style=for-the-badge&logo=scikit-learn&logoColor=f0883e" />
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&logo=scipy&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/MLflow-161b22?style=for-the-badge&logo=mlflow&logoColor=3fb950" />
+  <img src="https://img.shields.io/badge/Matplotlib-161b22?style=for-the-badge&logo=python&logoColor=c9d1d9" />
+  <img src="https://img.shields.io/badge/Plotly-0f2d5c?style=for-the-badge&logo=plotly&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Anaconda-0f2e1a?style=for-the-badge&logo=anaconda&logoColor=3fb950" />
+</p>
 
----
+### 🌐 Web & Mobile
+<p>
+  <img src="https://img.shields.io/badge/React-003040?style=for-the-badge&logo=react&logoColor=5ddcff" />
+  <img src="https://img.shields.io/badge/React_Native-003040?style=for-the-badge&logo=react&logoColor=5ddcff" />
+  <img src="https://img.shields.io/badge/Node.js-0f2e1a?style=for-the-badge&logo=node.js&logoColor=3fb950" />
+  <img src="https://img.shields.io/badge/React_Query-3a0d10?style=for-the-badge&logo=react+query&logoColor=ff9e9e" />
+</p>
 
-## 💻 Tech Stack
-
-### 🚀 Languages & Core Runtimes
-<div>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</div>
-
-### 🧠 Data Science, ML & AI
-<div>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=black" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-</div>
-
-### 🌐 Web & Mobile Development
-<div>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</div>
-
-### 🗄️ Databases & Cloud Ecosystem
-<div>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-</div>
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-0f2e1a?style=for-the-badge&logo=mongodb&logoColor=3fb950" />
+  <img src="https://img.shields.io/badge/MySQL-0f2d5c?style=for-the-badge&logo=mysql&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Firebase-2e1b00?style=for-the-badge&logo=firebase&logoColor=f0883e" />
+</p>
 
 ### 🎨 Design & Utilities
-<div>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-0f2d5c?style=for-the-badge&logo=adobe+photoshop&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Canva-003033?style=for-the-badge&logo=Canva&logoColor=29d4d1" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-161b22?style=for-the-badge&logo=windows-terminal&logoColor=c9d1d9" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## `$ git log --oneline --graph`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshalsp22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="Harshal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalsp22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Harshal's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshalsp22&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=388bfd&text_color=8b949e&border_radius=8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalsp22&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=8" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harshalsp22&theme=tokyonight&hide_border=false" width="98%" alt="Harshal's Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harshalsp22&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=388bfd&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="99%" />
+</p>
+
+---
+
+## `$ curl -s links.json | jq .`
+
+```json
+{
+  "linkedin": "https://www.linkedin.com/in/harshal-s-poojary",
+  "email":    "poojaryharshal28@gmail.com",
+  "instagram":"https://instagram.com/harshaal22"
+}
+```
+
+<p>
+  <a href="https://www.linkedin.com/in/harshal-s-poojary">
+    <img src="https://img.shields.io/badge/LinkedIn-0f2d5c?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
+  </a>
+  <a href="mailto:poojaryharshal28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-3a0000?style=for-the-badge&logo=gmail&logoColor=ff9e9e" />
+  </a>
+  <a href="https://instagram.com/harshaal22">
+    <img src="https://img.shields.io/badge/Instagram-2a0020?style=for-the-badge&logo=instagram&logoColor=f0883e" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=harshalsp22&icon=0&color=0" alt="Visitor Count" />
+    <img src="https://visitcount.itsvg.in/api?id=harshalsp22&icon=5&color=1" alt="Visitor Count" />
   </a>
+</p>
+
+<p align="center">
+  <sub>
+    <code>built with curiosity · Udupi, Karnataka, IN</code>
+  </sub>
 </p>
