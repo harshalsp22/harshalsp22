@@ -17,8 +17,6 @@
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
 </p>
 
 ---
@@ -92,11 +90,7 @@
 ## 🎮 `$ ./play_snake.sh`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="GitHub Grid Snake Animation" src="https://githubusercontent.com" width="100%" />
-  </picture>
+  <img alt="GitHub Grid Snake Animation" src="https://githubusercontent.com" width="100%" />
 </p>
 
 ---
@@ -109,7 +103,7 @@
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Contribution Performance Streak" />
+  <img src="https://herokuapp.com" width="100%" alt="Contribution Performance Streak" />
 </p>
 
 ---
@@ -136,6 +130,4 @@
   </a>
   <br />
   <sub><code>built with systemic curiosity • Udupi, Karnataka, IN</code></sub>
-</p>
-
 </p>
